@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dima/static/css/main.2cce8147.chunk.css",
-    "main.js": "/dima/static/js/main.b3b4c953.chunk.js",
-    "main.js.map": "/dima/static/js/main.b3b4c953.chunk.js.map",
+    "main.js": "/dima/static/js/main.2e3f3b13.chunk.js",
+    "main.js.map": "/dima/static/js/main.2e3f3b13.chunk.js.map",
     "runtime~main.js": "/dima/static/js/runtime~main.4524db0d.js",
     "runtime~main.js.map": "/dima/static/js/runtime~main.4524db0d.js.map",
     "static/js/2.af45228f.chunk.js": "/dima/static/js/2.af45228f.chunk.js",
     "static/js/2.af45228f.chunk.js.map": "/dima/static/js/2.af45228f.chunk.js.map",
     "index.html": "/dima/index.html",
-    "precache-manifest.4a2f44a4e0a8152481da5095df29577e.js": "/dima/precache-manifest.4a2f44a4e0a8152481da5095df29577e.js",
+    "precache-manifest.ec7c08d689c7f339b35011a53c1e1420.js": "/dima/precache-manifest.ec7c08d689c7f339b35011a53c1e1420.js",
     "service-worker.js": "/dima/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/dima/static/css/main.2cce8147.chunk.css.map"
   }
