@@ -58,7 +58,7 @@ function App() {
         />
         </div>
         <progress value={health} max="30" />
-        <input type="text" id="user-input" text={userInput} style={{"width": "20rem", "marginTop": "3rem", "borderRadius": "1rem"}} />
+        <input type="text" id="user-input" value={userInput} style={{"width": "20rem", "marginTop": "3rem", "borderRadius": "1rem"}} />
       </header>
     </div>
   );
